@@ -15,7 +15,7 @@ function Sidebar() {
     <ul className='sidebar-list'>
       <li className='sidebar-list-item'>
         
-        <BsGrid1X2Fill className='icon'/><Link to='/'>Dashboard </Link></li>
+        <BsGrid1X2Fill className='icon'/><Link to='/'>Home </Link></li>
         <li className='sidebar-list-item'>
         <BsFillArchiveFill className='icon'/>
         <Link to='/Products'>Products </Link></li>
